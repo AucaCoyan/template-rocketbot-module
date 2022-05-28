@@ -32,10 +32,10 @@ To use this module you need to configure the credentials to connect with the Goo
 
 ## Overview of the commands
 
-1. Setup Google Forms credentials  
+1. Setup Google Forms credentials
    Configure credentials to connect with the Google Forms API.
 
-2. Create a new form  
+2. Create a new form
    This command creates a new form with the title given.
 
 3. Read a form
@@ -66,5 +66,5 @@ To use this module you need to configure the credentials to connect with the Goo
 
 ### License
 
-![MIT](https://camo.githubusercontent.com/107590fac8cbd65071396bb4d04040f76cde5bde/687474703a2f2f696d672e736869656c64732e696f2f3a6c6963656e73652d6d69742d626c75652e7376673f7374796c653d666c61742d737175617265)  
+![MIT](https://camo.githubusercontent.com/107590fac8cbd65071396bb4d04040f76cde5bde/687474703a2f2f696d672e736869656c64732e696f2f3a6c6963656e73652d6d69742d626c75652e7376673f7374796c653d666c61742d737175617265)
 [MIT](http://opensource.org/licenses/mit-license.ph)
